@@ -8,4 +8,5 @@ My name is Gaba, me and my friend Isaluh made a project based on the clasic game
 <p>On this project we used only python as language and pygame, a python library.</p>
 
 By Gaba and Isaluh.
-![image](https://user-images.githubusercontent.com/112426768/220521178-0c0b9d5f-8bc5-4785-babc-0f275203e7e0.png)
+<img src"![image](https://user-images.githubusercontent.com/112426768/220521252-a1f82c78-c11f-4481-890f-5513af259935.png)
+" align=center>
